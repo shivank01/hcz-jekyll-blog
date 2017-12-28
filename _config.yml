@@ -1,11 +1,11 @@
-title: John Smith
+title: Shivank Pathak
 description: My Personal Blog
-author: John Smith
+author: Shivank Pathak
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://github.com/shivank01
 about: Freelance developer
 
-baseurl: ""
+baseurl: "https://shivank01.github.io/hcz-jekyll-blog/"
 url: ""
 
 allowsearch: true
