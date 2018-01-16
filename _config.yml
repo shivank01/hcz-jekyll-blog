@@ -1,21 +1,21 @@
 title: Shivank Pathak
-description: My Personal Blog
+description: My Personal Page
 author: Shivank Pathak
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/shivank01
-about: Freelance developer
+about: Pythonista,Machine Learning Enthusiast and Competitive Programmer
 
 baseurl: "https://shivank01.github.io/hcz-jekyll-blog/"
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+#disqus_shortname: aboutshivank
+#google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: shivank__
+ # fb_appid: 000000000000
 
 
 enableTags: true
