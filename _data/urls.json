@@ -1,9 +1,9 @@
 [
   {
-    "text: "Home",
-    "url":"/",
-    "icon":"fa-home",
-    "layout":"post"
+    "text": "Home",
+    "url": "/",
+    "icon": "fa-home",
+    "layout": "post"
   },
   {
     "text": "About",
