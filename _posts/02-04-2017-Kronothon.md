@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kronothon
-date:   2015-06-04 13:50:39
+date:   2017-04-02 13:50:39
 categories: Hackathon
 ---
 
